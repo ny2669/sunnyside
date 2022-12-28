@@ -596,7 +596,7 @@ padding: 1rem;
 
 /* Desktop */
 
-@media (min-width: 600px){
+@media (min-width: 768px){
 
 
   .menu, .close{
